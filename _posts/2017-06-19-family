@@ -3,6 +3,7 @@ layout: post
 title:  "Message to family"
 date:   2017-06-19 12:44:20 +0000
 categories: jekyll update
+jekyll serve
 ---
 I finally successfully made a public website that can be viewed by anyone
 

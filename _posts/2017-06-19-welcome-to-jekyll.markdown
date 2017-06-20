@@ -27,3 +27,5 @@ This is the first public website I have created and I made it mainly to test my 
 A message to groupchat (this will be deleted eventually):
 
 I just made a fricking website so fight me what did you do today also ik that there arent categories yet this is a wip but hey its there and it works so   H E C K   Y E A H 
+
+jekyll serve

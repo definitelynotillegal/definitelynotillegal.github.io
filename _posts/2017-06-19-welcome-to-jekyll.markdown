@@ -1,25 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Preface"
 date:   2017-06-19 04:06:20 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is a website I have created to tell you a little bit about myself, please note that I will not use my name due to the fact that this is a public website.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This website is split into different categories telling you about the various aspects of my life, these categories include:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Hobbies
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Interests
+
+Goals
+
+How I created this website.
+
+
+
+This is the first public website I have created and I made it mainly to test my web developing skills.
+
+
+
+A message to groupchat (this will be deleted eventually):
+
+I just made a fricking website so fight me what did you do today also ik that there arent categories yet this is a wip but hey its there and it works so   H E C K   Y E A H 

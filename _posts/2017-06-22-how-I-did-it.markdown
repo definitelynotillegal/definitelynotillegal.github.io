@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Message to friends"
+title:  "How I did it"
 date:   2017-06-19 04:06:20 +0000
 categories: jekyll update
 ---

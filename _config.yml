@@ -7,7 +7,7 @@
 
 # Site settings
 title: My first website
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   This is the first website I have created that can actually be viewed 
   by anyone on the internet, I'm using this website mostly as an education 

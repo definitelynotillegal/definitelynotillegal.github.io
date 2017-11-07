@@ -7,3 +7,4 @@ categories: jekyll update
 It's been a while since I've done anything with this website at all, I'll find some use for it 
 ---
 jekyll serve --first-post-in-a-while
+gem update github-pages

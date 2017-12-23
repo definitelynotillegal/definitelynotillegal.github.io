@@ -6,15 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My first website
+title: My Gift To You
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This is the first website I have created that can actually be viewed 
-  by anyone on the internet, I'm using this website mostly as an education 
-  tool to help me learn more about web developing, but I will frequently update it.
+  This is my Christmas gift to you Sarah. A website dedicated to you that you can access at any time and be reminded 
+  that I'm a complete knerd who appreciates you very much.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:  
 # Build settings
 markdown: kramdown

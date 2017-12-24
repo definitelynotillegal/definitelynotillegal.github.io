@@ -1,4 +1,5 @@
- permalink: /about/
+@@ -4,12 +4,4 @@ title: About
+  permalink: /about/
   ---
   
  -This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
@@ -10,4 +11,4 @@
  -You can find the source code for Jekyll at
  -{% include icon-github.html username="jekyll" %} /
  -[jekyll](https://github.com/jekyll/jekyll)
- +This website is my gift to my wonderful girlfriend, Sarah. This is a Christmas gift, but I'll try to keep seasonal aspects to a minimum.   I'm going to be honest with you this was a little too difficult for me, I screwed up somewhere early on and I had to fix a lot of         problems one by one because of it, but the website is here and now you can proudly say: "Yeah my boyfriend's a total knerd." 
+ +Hello! If you have found this site you are likely someone I know, however, even if you are not a friend/family member of mine, I still welcome you to my site! As you will see printed many times here, this site is my first public website, and will be used mainly for experimentation and educational purposes. This website won't be too interesting, but feel free to check out whatever various updates and posts I add to the website.
